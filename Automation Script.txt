@@ -1,0 +1,143 @@
+Windows Admin
+Introduction
+User
+Group
+Group Policy
+Disk Management
+(HDD, SSD, FDD, Flash Drive)
+Backup
+Restore
+
+
+
+
+
+
+
+ACCENTURE DRIVE 
+
+SOFTWARE TESTING :
+
+CODING 
+
+
+QA process (quality assurance)
+
+1. manual testers (functional testers)
+
+EXCEL, JIRA tool 
+
+2. Automation Testers 
+
+Any 1 prog lang (java, python, C#, JavaScript)
+java + selenium, cypress, Robot FW, BDD cucumber , Mocha, Jasmine etc 
+
+3. API testing 
+
+Manually : postman 
+
+Automation : REST Assured FW 
+
+4. DATA BASE 
+
+SQL 
+
+
+
+
+
+
+::: AUTOMATION TESTING :::
+
+
+- OLD tc's 
+- Regression tc's 
+
+Q. what is selenium ? 
+Selenium is NOT a tool it is a framework (collection of JAR files) 
+
+JAR files are a collection of . class files 
+
+
+QTP 
+- mercury 
+- paid tool 
+- VB script 
+
+
+Selenium 
+
+- thought works 
+
+ver1 
+
+
+is classified as 
+
+Q. What are the different selenium suite components?
+ 
+1. Selenium IDE (integrated development environment)
+
+- too many bugs 
+
+
+2. Selenium RC (remote control)
+- stable 
+
+3. Selenium WebDriver
+4. Selenium GRID 
+
+
+ADVANTAGES 
+- open source (no license fees required)
+- supports multiple prog lang's (java, C#, python, RR, JS) 
+
+
+Q. Difference between QTP  v.s  Selenium ?
+
+Ans.
+
+1. QTP is paid tool            1. Selenium is open source/ free to use 
+2. QTP only supports VB script 2. Selenium supports multiple prog lang
+3. Owned by mercury            3. Selenium is open source community
+4. it can automate both                 4. Selenium can only automate browsers
+   webapps(browsers) & standalaone         (chrome, firefox, Edge, opera, safari etc)
+
+Selenium WEBDRIVER ARCHITECTURE
+
+4 components :
+
+- selenium client library :
+It is the programming lang that we are using for automation scripts along with selenium 
+
+- JSON wire protocol  (JSON- java script object notation) :
+
+It is the format through which the prog lang code will get converted to  interact with browsers 
+
+via HTTP : it is the protocol through which the converted JSON will interact with browser drivers and the respective driver will initiate the browser  
+
+- browser drivers: 
+
+they initiates the respective browsers 
+
+
+- browsers :
+use to run web apps (chrome, edge, FF, Opera etc )
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
